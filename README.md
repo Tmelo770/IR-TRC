@@ -5,7 +5,7 @@ The new energy minerals international trade networks dataset used in this articl
 
 TRC Phenomenon identification： <br>
 Take Co as an example. You can find the distribution of relevant indicators about the Co ore network and the local TRC coefficients at different time intervals in the 'Co-TRC.py' file.
-
+`P_birth.py`
 
 DII DII feature selection and weighting： <br>
 The DII feature selection and weighting procedures depend on the DADApy library. Please ensure that DADApy is properly installed before running DII FWE.py, which contains the implementation of the corresponding algorithms. 
