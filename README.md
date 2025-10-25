@@ -4,7 +4,7 @@ The new energy minerals international trade networks dataset used in this articl
 
 
 TRC Phenomenon identification： <br>
-Take Co as an example. You can find the distribution of relevant indicators about the Co ore network and the local TRC coefficients at different time intervals in the Co-TRC.py file.
+Take Co as an example. You can find the distribution of relevant indicators about the Co ore network and the local TRC coefficients at different time intervals in the 'Co-TRC.py' file.
 
 
 DII DII feature selection and weighting： <br>
