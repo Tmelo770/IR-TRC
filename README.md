@@ -1,8 +1,10 @@
 # IR - TRC
 Data: The new energy minerals international trade networks dataset used in this article is sourced from the United Nations Comtrade Database (https://comtradeplus.un.org/). The feature data include countries' population, GDP, and high-tech levels are from the World Bank (https://data.worldbank.org.cn/); political risk data are from the PRS Group (https://www.prsgroup.com/); and the resource reserves and production datasets are from USGS (https://www.usgs.gov/). You can also search for the needed data in the "Data" folder.
-# TRC Phenomenon identification
+
+TRC Phenomenon identification： 
 Take Co as an example. You can find the distribution of relevant indicators about the Co ore network and the local TRC coefficients at different time intervals in the Co-TRC.py file.
-# DII DII feature selection and weighting
+
+DII DII feature selection and weighting： 
 The DII feature selection and weighting procedures depend on the DADApy library. Please ensure that DADApy is properly installed before running DII FWE.py, which contains the implementation of the corresponding algorithms. 
 A detailed tutorial and example notebook can be found in the official DADApy documentation: https://dadapy.readthedocs.io/en/latest/jupyter_example_6.html
 
