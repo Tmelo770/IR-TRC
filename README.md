@@ -19,4 +19,4 @@ Other scripts that support the analysis of temporal rich-club (TRC) phenomena an
 `Uk_Comparian.py`: Evaluate whether a temporal rich-club effect exists (u > 1).<br>
 `x feature.py` and `y1 feature.py`: Extract structural features from trade networks, including degree-related and connectivity-based indicators.<br>
 `Z-score.py`: Standardize and centralize extracted features using Z-score normalization.<br>
-Additional feature extraction scripts are provided in the Feature folder.
+Additional features are provided in the Feature folder.
